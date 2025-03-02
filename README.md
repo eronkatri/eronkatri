@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m Eron Katri Melloul
 
-<!--
-**eronkatri/eronkatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst with experience in Python, SQL, Power BI, and Excel. My background in business management and finance helps me effectively analyze large datasets and provide insights that support decision-making.
 
-Here are some ideas to get you started:
+I am interested in opportunities that allow me to further develop my skills and contribute to data-driven projects.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Languages:** Python, SQL  
+- **Data Visualization:** Power BI, Excel (Advanced Functions, Pivot Tables, Macros)  
+- **Database Management:** SQL Queries, Data Cleaning, ETL Processes  
+- **Financial Analysis:** Investment Operations, Valuation, Risk Assessment  
+- **Languages:** English (Fluent), Hebrew (Fluent)  
+
+---
